@@ -1,0 +1,8 @@
+d:\用户目录\我的文档\visual studio 2015\Projects\HW2_CS422\HW2_CS422\bin\Debug\HW2_CS422.exe.config
+D:\用户目录\我的文档\Visual Studio 2015\Projects\HW2_CS422\HW2_CS422\obj\Debug\HW2_CS422.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\HW2_CS422\HW2_CS422\bin\Debug\HW2_CS422.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\HW2_CS422\HW2_CS422\bin\Debug\HW2_CS422.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\HW2_CS422\HW2_CS422\bin\Debug\CS422.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\HW2_CS422\HW2_CS422\bin\Debug\CS422.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\HW2_CS422\HW2_CS422\obj\Debug\HW2_CS422.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\HW2_CS422\HW2_CS422\obj\Debug\HW2_CS422.pdb

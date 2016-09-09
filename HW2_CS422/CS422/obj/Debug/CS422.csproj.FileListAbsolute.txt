@@ -1,0 +1,5 @@
+D:\用户目录\我的文档\Visual Studio 2015\Projects\HW2_CS422\CS422\bin\Debug\CS422.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\HW2_CS422\CS422\bin\Debug\CS422.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\HW2_CS422\CS422\obj\Debug\CS422.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\HW2_CS422\CS422\obj\Debug\CS422.dll
+D:\用户目录\我的文档\Visual Studio 2015\Projects\HW2_CS422\CS422\obj\Debug\CS422.pdb
